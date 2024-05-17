@@ -4,3 +4,6 @@
 [submodule "JUMP-Target"]
 	path = JUMP-Target
 	url = https://github.com/jump-cellpainting/JUMP-Target.git
+[submodule "compound-annotator"]
+	path = compound-annotator
+	url = git@github.com:jump-cellpainting/compound-annotator
